@@ -1,0 +1,41 @@
+:root {
+    --background-light: #f4f4f4;
+    --background-dark: #333;
+    --text-light: #333;
+    --text-dark: #fff;
+    --accent-color: #f1c40f;
+    --accent-hover-color: #e67e22;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: var(--background-light);
+    color: var(--text-light);
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.dark-mode {
+    background-color: var(--background-dark);
+    color: var(--text-dark);
+}
+
+/* <!-- Toggle switch for dark mode --> */
+{
+<div class="theme-switch">
+    <input type="checkbox" id="toggle" class="toggle-input">
+    <label for="toggle" class="toggle-label">Toggle Dark Mode</label>
+</div>
+}
+{
+const toggleSwitch = document.querySelector('.toggle-input');
+
+toggleSwitch.addEventListener('change', function() {
+    if (this.checked) {
+        document.body.classList.add('dark-mode');
+    } else {
+        document.body.classList.remove('dark-mode');
+    }
+});
+}
