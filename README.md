@@ -1,6 +1,4 @@
-# EcoBattery-Guardian
-
-<img src="https://socialify.git.ci/your-username/EV-Battery-Management-System/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="EV-Battery-Management-System" width="640" height="320" />
+![EcoBattery-Guardian](https://socialify.git.ci/sharmachaitanya945/EcoBattery-Guardian/image?description=1&descriptionEditable=EcoBattery%20Guardian%3A%20Predictive%20maintenance%2C%20data%20simulation%2C%20education%2C%20recycling%20management.&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 # 🔋 EV Battery Management System
 
@@ -19,7 +17,7 @@ Welcome to the EV Battery Management System! 🚗🔋 A comprehensive solution f
 
 ## 📷 Demo
 
-[![YouTube](https://img.youtube.com/vi/example/maxresdefault.jpg)](https://www.youtube.com/watch?v=example)
+[![YouTube](https://i.ytimg.com/vi/AmsKeEKQCnc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARhdIGUoVzAP&rs=AOn4CLBxkfg3Js7Pip84k5Jg4o9j-wcEEg)](https://youtu.be/AmsKeEKQCnc)
 
 ## 🛠️ Technologies Used
 
@@ -35,7 +33,7 @@ Welcome to the EV Battery Management System! 🚗🔋 A comprehensive solution f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/EV-Battery-Management-System.git
+    git clone https://github.com/sharmachaitanya945/EV-Battery-Management-System.git
     ```
 2. Navigate to the project directory:
     ```bash
